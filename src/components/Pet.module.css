@@ -1,0 +1,17 @@
+.card{
+  max-width: 300px;
+  border-radius: 1em;
+  padding: 1em;
+}
+img{
+  width: 100%;
+  border-radius: 1em;
+}
+span{
+  font-size: 1rem;
+  font-style: italic;
+}
+.card:hover{
+  cursor: pointer;
+  background-color: rgb(244, 238, 229);
+}
