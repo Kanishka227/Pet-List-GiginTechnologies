@@ -1,8 +1,31 @@
-# React + Vite
+# Pet List - Gigin Technologies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project allows you to search for different pets based on location, breed, and animal type. You can also click on any pet to get additional information about it.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search for pets by location, breed, and animal type
+- View detailed information about each pet
+- User-friendly interface
+
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Kanishka227/Pet-List-GiginTechnologies.git
+    ```
+
+2. Install the dependencies:
+
+    ```bash
+    npm install
+    ```
+
+### Running the Project
+
+To start the development server:
+
+```bash
+npm run dev
+
